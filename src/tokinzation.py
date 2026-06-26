@@ -1,4 +1,4 @@
-import nltk
+
 from nltk.tokenize import word_tokenize
 
 def tokenizer(user_response):
